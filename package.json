@@ -1,10 +1,10 @@
 {
   "name": "react-activity-feed-stream",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "description": "React components to create activity and notification feeds",
   "author": "GetStream",
   "license": "BSD-3-Clause",
-  "repository": "GetStream/react-activity-feed",
+  "repository": "mohdsameer/react-activity-feed",
   "main": "dist/index.js",
   "module": "dist/index.es.js",
   "jsnext:main": "dist/index.es.js",
